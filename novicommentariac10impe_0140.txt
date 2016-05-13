@@ -1,0 +1,36 @@
+60 Ε L E M E Ν Τ Α
+Definitio 1.
+
+17. Si V sit expreffio vtcunque ex x et ycon-
+flata , proposita quadam relatione inter x et y ‚ eiua
+variatio , quam per &V indIcabo , est incrementum ,
+quod quantitas V capit, fi relatio inter x et y pros-¹
+pofita infinite parum varietur.
+
+Coroll. 1.
+
+18. Probe ergo distingui oportet differentiale d'V,
+et variatio ὃ V; differenti-ale enim denotat incre-
+mentum ipsius V ‚ dum x suo elemento dx augetur,
+manente relatione inter x et y proposita:¹ variatio au-
+tem denotat incrementum ipsius V, dum ipsa relatio
+variatur manente x.
+
+Coroll. 2,
+
+19. Cum per variationem relationis, interx et y
+propositae , quantitas y incrementum capiat δ y ‚ ma-
+nente x eadem3 quomodocunque quantitas V ex xet y
+fuerit conflata, eius variatio reperietur, si Ioco y vbique
+scribatur y-4-c5 y ‚ et a valore hinc pto V oriundo
+ipse valor V subtrahatur.
+
+Coroll. 3.
+
+20. Scilicet fi in V vbique pro y scribatur
+y ΔΓ δ γ, prodibit valor variatus ipfius V , qui est
+V 4⁴ ὃ V3 ipfa autem variatio reperitur , fi a valore
+variato V÷3 V valor primitiuus V subtrahatur.
+
+Definitio· ,
+

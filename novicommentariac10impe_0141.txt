@@ -1,0 +1,48 @@
+CALCVLI VARIATIONVM„ 61
+Definitio 2.
+
+21. Calculus variationum est methodus inueniendi
+variationes quantitatum vrcunque cx binis variabilibus
+
+x et y conflatarum ‚ quas patiuntur, sr relatio inter'
+x et y proposita infinite parum quomodocunque immu-
+
+tetus.
+Coroll. 1.
+
+22. Proposita ergo relatione inter x et y ‚ fi V
+denotet quantitatem quomodocunque ab x et y penden-
+tem, hic calculus docet inuenire variationem ipfius V,
+
+seu valorem ipsius ὃν.
+
+Coroll. ρ.
+
+23. Quia relationem inter x et y datam vrcun-
+que immutari assumimus, vt y pro singulis valoribus
+ipsius x variationes quascunque , quae etiam a se inui-
+cem non pendeant, accipiat, hic calculus latiffime pa-
+tet, atque ad quisuis conditiones variationum datas ac-
+
+commodari¹ poterit.
+
+Scholion 1.
+
+24. Quo vsus huius calculi clarius perspici queat,
+exemplum afferamus. Propofita ergo sit haec relatio
+inter x et y:
+
+aayy -bbxxzaabb
+quae scribendo b-i-db loco b infinite parum immute-
+tur. lam fi proponatur quantitas quaepiam ab x et y
+pendens‚veluti s4(‘¹²⁶²’⁴“¹y²-¹ huius variatio ex illa
+
+2
+immutatione relationtsvssriunda ope istius calculi exhi-
+
+H . 8 beri
+
+ 
+
+ 
+

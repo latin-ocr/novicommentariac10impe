@@ -1,0 +1,44 @@
+Tab. Ι.
+Fig. ι.
+
+136 DE METHODO'
+
+pertinentibus illustrari conueniet. Ex primo ergo ge-
+nere exemplo fit problema olIm t'rac‘tatum , quo quae-
+ritur curua AM, vt dueta ad axem AB ex quouis
+punito M tangente MN, data ratio inter rectas AN
+et MN subsistat. Hic [cilicet praescripta proprietas ad
+vnum punctum M spectat , et per coordinat-as huius
+punffi Asz‚ et PM:y‚ earumque differenti-alia
+
+exprimi potest3 cum enim pofito curuae elemento
+
+V(dx²-÷-dy'):ds,fit MNJ-yd‘}5 et AN:.r-—y—}y³·⁶‚
+
+rationem datam m : n existere oportet iuter has linem,
+vnde obtinetur aequatio:
+
+2112.2*dy-ydx1):nyds
+quae cum alias lineas ‚ nisi quae solum punitum M
+(in se quidem indefinitum) respiciunt, non contineat,
+problema ad primum genus refero.
+
+ 
+
+3. Genus autem secundum eiusmodi problemata
+complectetur, ad quae soluenda coordinat-ae ad duo
+curuae punita pertinentes simul considerari debent.) cu-
+iusmodi erat problema de traiee‘toriis reciprocis 7 illud-
+que problema catoptricum ‚ quod ante aliquot annos
+tradtaui. Cum enim in his continuo bina curuae pun-
+cta inter se conferantur, et coordinatae ad ea pertinen-
+tes in computum ingrediantur3 per principium conti-
+nuitatis effici debet ‚ vt bina haec puusta ad eandem
+lineam curuam referantur, sicque aequatio inter coordi-
+natas vnicum punctum spectantes eliciatur. Quam ob
+rationem huiu=modi problemata nerito multo difficilio-
+ra censentur iis, in quibus singula tantum puncta seor-
+
+sim consideranda proponuntur3 quoniam hic 'praeter
+condi-
+

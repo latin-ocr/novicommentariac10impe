@@ -1,0 +1,45 @@
+FORM V ΕΛΚ. INTEGRALIVM. 9
+
+‘Solutia
+
+Sit z minimus arcus abscissae x respondens in 4³³¹?
+lipfi ‚ cuius semiaxis transuersus est za, ponatur stimi· ,
+perimeter ellipsis ΞΑ, vt fit tota perimeter :2A,
+atque manifestum est, eidem abscissae x etiam respon-
+dere arcus 2A-23 2A-4-z3 4A—-z3 4A÷z3
+6A—z3 6A—-}-z etc. qui omnes cum (uis negatinis
+continentur in formula Hx [a]: ita vt eius valor in ge—
+nere sit ὲ εηΑ-ψ-ε, denotante n numerum integrum
+
+quemcunque.
+
+Coroll. 1.
+
+21. Cum {A fit quarta pars perimetri euipfis v
+eique abscissa ,τ’-τα conueniat, erit ἑΑΣΠίῑ[τῑ], se‘
+miperimetro autem A conuenit abscissa za ‚ vnde
+Azn. 2a[a], ergo 1'12a[c1]::21*1a[a].
+
+Coroll. 2.
+
+22. Si capiatur absciffa :za-x, erit arcus ei
+respondens :A—Hx[a], vnde colligitur haec aequa-
+litas :
+
+I‘lx[a]-1—l'1(2a-x)[a]:2l']a[a]
+vbi vincula ( ) quibus abiciss‘a inscribitur, ab vncinu-
+lis ἱ ] serniaxem transuersum continentibus, probe distin-
+gui oportet.
+
+Coroll. 3.
+23· Eadem aequalitas ex integrali potest colligi:
+pofito enim :za-ax loco x, erit:
+
+ri(2a-x>[a]:-sdx1s( ‘² -i—ss):-I'Ix[a]—1—Const.
+
+'zax-xx
+
+Tomt.X. Nou. Comm. B Constans
+
+ 
+

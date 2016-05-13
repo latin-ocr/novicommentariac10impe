@@ -1,0 +1,39 @@
+CALCVLI VARIATIONVM. 91
+
+rentialis vel primi vel etiam 'altioris gradus·, ficque
+relatio quaesita inter x et y post vnam pluresue de-
+mum integrationes reperitur. Cum autem quaelibet
+integratio quantitatem constantem arbitrariam inuehat ,
+hoc modo ad aequationem finitam vagam peruenietur ,
+atque nuuc noua quaestio existet ‚ quomodo has con-
+stantes arbitrarias determinari oporteat ‚ vt valor ipsius
+U omnium maximus minimusue prodeat. Cum euim
+quaelibet illarum constantium determinatio iam per se
+maximi minimiue proprietate sit praedita , hic porro
+vel maximum maximorum vel minimum minimorum
+inuestigandum relinquitur.
+
+70. Ad hoc igitur nouum problema accessorium
+resoluendum partes illae a figno integrali immunes ad—
+hiberi poterunt. Constantes scilicet per integrationes
+inuec'tas ita determinari conueniet, vt posito xza
+cecfficientes ipsarum Sy, {gc-y, Ἢ] etc. singuli seor-
+fim euanescant ‚ siue vt hoc casu satisfiat his condi- '
+tionibus : ·
+
+(12:03 (C)::0; (D);:0 etc.
+
+Deinde quia ambos terminos ,τ’-το, et x:a‚inter [e
+permutare licet, etiam, posito x:0‚ efficiendum erit ,
+vt fiat (B):0‚ (C):0‚ (D)::0 etc. Etsi enim
+partes ‚ quae hoc exigant , in nostra expreffione non
+continentur , tamen eae in membro integrali contineri
+
+suut censendae.
+
+71. Ex iisdem principiis etiam problemata, quae
+ad methodum relatiuam retuli, solui poffunt3 haec
+autem problemata ita generaliter·enunciare licet:
+
+M 2 Inter
+

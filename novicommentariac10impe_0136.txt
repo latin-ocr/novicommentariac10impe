@@ -1,0 +1,38 @@
+56„ ELEMENTA
+
+Elementa Calculi Variationum.
+
+Hypothefis 1.
+1.
+
+Detur inter variabiles binas x et y aequatio quae-
+cunque, qua earum relatio mutua exprimatur,
+ita vt inde quicunque valor determinatus ipfi x tribua-
+tur, valor quoque determinatus pro y definiatur.
+
+Coroll. 1.
+
+2. Proposita ergo aequatione inter binas varia-
+biles x et y ‚ singulis valoribus ipsius x, quicunque
+concipi possunt, determinati vulores ipfius y responde-
+
+bunt.
+C o ro l l. 2.
+
+3. Vi ergo istius aequationis propositae erit y
+certa quaedam funciio ipsius x, et quemadmodum
+ipsi x respondet y, ita illius valoti sequenti x':x÷dx,
+respondebit y‘3y—-l—dy , cuius differentia a praeceden-
+te y , differentiale nempe dy, per vulgares differentiandi
+regulas affignari poterit.
+
+Coroll. 3.
+
+4. Cum y sit funffio ipsius x ‚ etiam Ξ erit
+
+functio ipsius x, per relationem inter x et y datam affi-
+
+gnabili53 ac si ponatur ΞΞ-ῑῑρ, limili modo “J—ff} erit
+
+certa
+

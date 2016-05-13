@@ -1,0 +1,41 @@
+CALCVLI VARIATIONW . 63
+
+ipsa formula Z ad primum genus pertineat. Tertium
+genus comprehendet eiusmodi formulas ‚ iu quibus non
+solum integralia sde insunt, sed vbi quantitas Z
+ipsa insuper integrali-„1 inuoluit. Tandem sequetur quar-
+tum genus, in quo formula varianda V non absolute,
+sed demum per aequationem differentialem, vel primi,
+vel adeo altioris gradus , definitur ‚ quod genus vtique
+latiffime patet, ac praecedentia omnia in se complec'ti-
+tur. Quod autem ad aequationem , qua relatio inter
+x ety exprimitur , attinet, etii eam vt datam specto,
+tamen non definio, ne praecepta tradenda vllo modo
+limitentur.
+
+Theorema 1.
+
+26, Variatio differentialis cuiusuis quantit-atis V
+aequalis est differentiali variationis eiusdem, seu est
+
+&dv :dd V.
+
+Demonstratio.
+
+Cum fit dV:V'-V denotante V' valorem ie-
+quentem ipsius V , qui ipfi x—-i-dx conuenit, vti V
+ipfi x respondet, erit ddedV'-3V·, verum ddV
+exprimit differentiam inter ὃ V eiusque valorem sequen-
+tem, qui est &Vs⁷ ita vt sit d5V23Vf-3V, vnde
+perspicuum est > effe dded3 V.
+
+Coroll. 1.
+
+27. Eodem modo⁷ fi loco V scribamus dV, pa.-
+tet effe &adv-:deV3 sed &dvzcffiv ‚ vnde fit
+d& d V::dd8 V ‚ sicque aequales inter (e erunt hae tren
+formae =
+
+devszVz-dd& v.
+Coroll.
+

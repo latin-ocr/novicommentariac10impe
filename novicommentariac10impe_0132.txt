@@ -1,0 +1,36 @@
+52 ELEMENTA
+
+tionem parametrorum resolui dicuntur , quandoquidem
+vari-abilina parametri omnes illas innumerabiles curua
+proposita> complectitur. Qio autem clarius perspiciatur
+principium , ex quo huiusmodi problematum solutio est
+petenda ‚ proposita sit aequatio quaecunque inter ab·
+sciflam x et applicatam y, quae inluper quantitatem
+constantem a parametrum vocandam contineat3 quae
+quamdiu eundem valorem retinet, aequatio praebebit
+'mim quandam lineam curuam , verum fi ipsi a suc·
+cessiue ahi atque alii valores tribuantur, aliae continuo
+lineae curuae orientur. Quodsi iam quaestio circa arcus
+hatum cnruarum versetur ‚ quoniam cuiusque curuae ar-
+cus per sV(dx²-}-dy²) exprimitur, in qua integratio-
+ne parameter a pro constanti assumitut3 totum nego-
+tium huc redit ‚ vt formulae integralis J V(dx²÷dy²)
+incrementum definiatur, quod accipit, dum in ea loco
+quantitatis a eadem suo incremento da aue'ta substitua-
+tur. Generatim igitur si Ioco arcus alia quaecunque
+expreffio integralis sde tractetur, quae integratio ex
+data inter x et y aequatione sit conficienda , parame-
+tro a pro constanti habita3 quaeritur quantam variatio.
+nem eadem expressio sde iam integrata sit passura ,
+fi in aequatione inter x et y data parametet a ele-
+mento da augeatur. Eodem referendum est celebre
+illud traice'toriarum orthogonalium problema ‚‚ in quo
+etiam infinitae lineae curuae {ub data aequatione inter
+absciffam x, applicatam y, et parametrum variabilem a,
+contentae proponuntur , atque eiusmodi linea curua
+
+, quaeritur , quie illas omnes ad angulos rectos traiiciat.
+
+Ad quod problema Ioluendum applicata y vt fusnd’cio
+· ip arum
+

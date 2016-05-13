@@ -1,0 +1,37 @@
+DE METHODO MAXIM. ETMINIMOR. 95¹
+
+ΙΙ.
+
+, Haud aliter res se habet, fi proponatur funfflo
+duarum variabilium x et y, quaeraturque valor ipsi y
+tribuendus ‚ vt, cum pro x data quantitas a fuerit po-
+sita , ipsu fune'tio maximum minimuume valorem irn-
+petret: statim enim vbique pro x scribatur a, et quae-
+stio manifesto ad primum genus erit redue'ta. Verum
+fi illa funrstio vatiabilium x et y nou suerit euoluta ,
+sed per integrationem determinetur, quaestiones ad ge-
+nus omnino diuersum erunt referendae, methodumque-
+soluendi .longe diueriam requirunt. Veluti fi Z fuerit
+fundtio quaecunque ipsarum x et y, ac proponatur for-
+mula integralis [Z dx, quaestionem ita enunciari con- ’
+veniet: Desinlre relationem inter binas variabiles X et y,
+vt valor fiius formulae , postquam posuerimus τις-’.3,
+fiat omnium maximus vel minimus.
+
+111.
+
+Quantum inter huiusmodi quaestiones et erm, qua³
+ad prius genus retuli, interfit, ad sequentia momenta
+vel leuiter attendenti mox patebit. Sit enim V fun-
+ἂίο euoluta ipsarum x et y, pro qua inuestigari debeat
+valor ipsius y, vt posito πεῖ-ιι valor funffionis V eua-
+dat maximus minimus ve3 atque ad hanc quaestionem
+soluendam statim poni potest xza, quo fatto valor
+ipsius y per methodum priorem ita determinabitur ‚ vt
+non* pendeat a valore indefinito ipsius x. At propo-
+fita fi>rmula integrali sZ dx, non in formula differen-
+tiali de, sed demum post integrationem ipsi x va*-
+liorem illum determinatum a tribuere licet·⁷ neque vt:
+
+tum
+

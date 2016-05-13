@@ -1,0 +1,38 @@
+ff 'DE METHODO
+
+lyleos mecum beneuole communicauit. Quae cum plu·
+rimnm in receffu habere videantur ‚ meo more explif
+canda et vberius excolenda statui.
+
+VII.
+
+Consideremus igitur in genere formulam integra-
+lem sZ dx, in qua sit Z funffio vtcunque per x ety
+composita , quae etiam rationem d1fferentialium non
+solum primi sed etiam superiorum ordinum inuoluat ,
+ac praeterea quoque Vnam plnres ve formulas integrales
+compleamur. Pro eius autem determinatione assuma-
+mus integ-ale ita capi, vt euanescat politox103 tum
+vero post integrationem tribuamus ipsi x valorem quen-
+dam datum x z a, sitque A valor, quem formula in-
+tegralis tum recipit. Iam quaestio in hoc veri-atur, vt
+definiri debeat ea relatio inter x et y, ex qua pet
+istas operationes maximus vel minimus valor pro A
+obtineatur. Hanc igitur relationem inter x et y, quae
+qusiefito stitisfaciat‚ aequatione quadam siue finita siue
+differenti.÷li cu1u÷cunque ordinis exprimi oportet , quae
+fimnc fuerit inuenta ‚ problema pro soluto erit lu·
+bendum.
+
+VIII.
+
+PonamuS, vti in Analyfi fieri solet, hanc rela-
+tionem inter x et y, quae quaeritur, iam constare ‚ ita.
+vt quicunque valor definitus pro x assumatur, inde y
+quoque, ac proinde etiam functio Z, valorem determi-
+natum adipiscatur. Concipiantur hoc modo succeffiue
+pro x omnes possibiles valores a termino xzo vsque
+
+ad terminum x:::a substitui, qni interuallis infinite
+paruis
+

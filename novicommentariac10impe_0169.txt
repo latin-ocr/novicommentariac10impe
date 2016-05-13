@@ -1,0 +1,39 @@
+CALCVLl VARIATIONVM. ες
+
+tribuuntur inuoluit, dum continet summam omnium
+elementorum (2³)de y ex variatione singulorum valo-
+rum y oriundorum. Ita'fi vnicus eius valor ipsi x
+quasi determinatum valorem haberet, (peecato respon.-
+dens varietur , seu particula ὃ y augeatur, membrum
+illud integrale tantum effet :mma-<5 y, nihilque (um-
+maudum haberetur-3 sm autem insuper‚sequeus valor y‘
+ipsi x÷dx respondens, parti-:ula ὅγ’ augeatur, posi-
+toque x—-l-dx, loco x funcuo (A) abeat iu (ΑΥ mem·
+
+· brum integrale constabit his duabus partibus:
+
+(A)dx‹3y-l-(A)sdx‹5y'
+
+Simili modo fi tres pluresue valeres succcffiui y, χ’,
+yn’ym'yw etc. particulis δ ν. 8y'. Bys‘, &yss‘ etc.
+augeantur ‚ membrum integrale aequiualebit huic ex-
+preffioui ε ,-
+(A)dx5y÷(A)fdx cist-l· (A)s‘dx3yss÷(A)‘²sdx5y“'÷etc.
+quae series tam retrorsum vsque ad terminum x: 0,
+quam {introrsum vsque ad terminum xza, continuata
+concipi potest. ’
+
+-67. Etsi igitur variatio &U ad terminum detet-
+minatum x:a adstringitur , tamen ob membrum in-
+tegrale omnes variationes intermediae complediitur3 vn·
+de fi pro¹ reliquis partibus absolutis ‚ quae tuntum ad
+terminum vliimum ,πῖ-τα referuntur, breuitatis gratia
+scribamus I, variatio &U ita erit expressa, vt sit:
+
+ὃ U z (A)dx6y÷(A)'dx8ys÷(A)ssdx6y‘'÷(A)s''dx3ys‘'
+’ -l- etc. -ψ- Ι
+quae, vt problemati satisfiat, nihilo aequari debet.
+Cum autem variationes By, &ssffy‘s etc. non a 12:
+
+Tom.X.Nou.Comm. . Μ inui-
+

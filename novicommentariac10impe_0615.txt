@@ -1,0 +1,51 @@
+PARALLAXIS. 525
+
+miffe, fiicile diiudicatur quantitas restae VQ ex uR
+(ΖΗ), uV, RQ. Per redtas autem VQ, HQ, sub
+angulo dato VQH20HC (ξ. 22.), vel eius dein-
+ceps posito ⁷ comprehensam, datur positio centri Solis
+visi V respedhl temitae centri ῼτίε et dati in ea
+punci'ti H3 ex qua deinde reliquae conditiones cognosci
+poffunt.
+
+§. 26. QuaeramuS, exempli loc0, effeetum pa-
+rallaxis in egreffu centri {Eris e disco Solis Lipsiae vi-
+so, quern 9²'.18s.9s'. ante meridiem d. 6.Iunii1761,
+obseruatum fuiffe ponamus. Erit ergo distantia ipfius
+V a meridie ad M intempore :27'.41s.51“‚ et
+elongatio mz40⁰.27‘.45'‘‚ V in quadrante SM el-
+lipfis haerente. Fient autem sequentia , manentibus da-
+tis §phi 25.
+
+log.p :1,3979400
+log.sin.e :9‚7954171
+log.fin.m::9‚8122113
+
+-ι
+
+log Zu :1,0055684
+demto scil. log. R²
+Zu: HR11077‚129
+
+ 
+
+ 
+
+ 
+
+log.p -...·· ῐ,39794ο“ο
+log. sime :9‚7954171
+log. fin. d 29, 58648 16
+Iog-cofim:9‚ 8812881
+
+—
+
+log.uV :076611268 ’
+demto scil. log. R'
+“V24'G583
+Vvv 3 in
+
+ 
+
+ 
+

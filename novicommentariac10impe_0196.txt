@@ -1,0 +1,40 @@
+116 DE METHODO
+
+in variatum transfertur, accipit, definiatut3 quippe
+quod nihilo aequale positum solutionem maximi mini·
+mi ve continebit. Vocabo antem hoc incrementum va-
+riationem differentialem formulae sde‚ qnae oriri
+intelligenda est , fi singuli valotes ipsius y particulis in-
+finite parnis δ y iisqne arbitrariis augeantur. Tum ve-
+ro hanc variationem per omnes valores *ipfius x, a ter-
+mino x:0 vsque ad terminum x:a‚ extendi debete
+perspicuum est ‚ pro cuius completa determinatione ob-
+seruandum est, eam ita sumi oportere, vt posito xzzo
+ea euanescat. Hinc igitur sequentia problemata ope
+huius methodi resoluiinus, circa quae tenendum est ,
+litteras p‚· q, r, s etc. rationem differentialium binarum
+
+variabilium x et y ita inuoluere ‚ vt fit
+
+dy —dp ‘riq' dr
+Ρῑῡό *1-ῡό ν-ηῑῑ, sta-x etc.
+
+Problema 1.
+
+Si Z sit func'tio quaecunque variabilium x et y,
+quantitatumque earum differentialin inuoluentium , p, q,
+r, s etc. ita vt eius differenti-ale sit huiusmodi:
+
+dzszx÷Ndy÷Pdp÷qu÷Rdr-i—Sds etc·
+
+inuenire variationem differentialem formulae integralis
+sde a termino ,τεο vsque ad xza extensam.
+
+Solutio.
+
+Quaeri ergo debet (Ysde2 et cum sit δ s de
+:JB de, habebimus statim, ob &xz-0,
+
+522N3y÷·P3p÷Q5q÷-Rc5r÷stts etc.
+Est
+
